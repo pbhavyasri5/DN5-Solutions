@@ -1,7 +1,0 @@
-// 37
-
-public class InspectBytecode {
-    public void greet() {
-        System.out.println("Hello");
-    }
-}
