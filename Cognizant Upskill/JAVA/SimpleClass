@@ -1,0 +1,6 @@
+// 38
+public class SimpleClass {
+    public static void main(String[] args) {
+        System.out.println("Decompile me");
+    }
+}
